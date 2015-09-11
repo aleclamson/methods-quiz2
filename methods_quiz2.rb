@@ -9,5 +9,14 @@ module MethodsQuiz2
 		end
 	end
 	
+	def max_maybe (num1, num2)
+		if num1 == num2
+			return 0 
+		elsif num1 > num2
+			return num1
+		else
+			return num2
+		end
+	end
 
 end
