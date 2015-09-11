@@ -18,5 +18,14 @@ module MethodsQuiz2
 			return num2
 		end
 	end
-
+	
+	#def squirrels_play? (temp, summer)
+	#	if temp >= 60 && temp <= 90
+	#		true
+		#elsif temp >= 60 && <= 100 && summer == true
+		#	true
+	#	else
+	#		false
+	#	end
+	#end
 end
